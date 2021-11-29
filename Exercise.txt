@@ -1,0 +1,5 @@
+1. The terminal is a quicker way to look at your system files, and create new folders/files quicker.
+
+2. The difference between Git and Github is that Git is installed on your computer and Github is on the browser.
+
+3. To have other people work on projects at the same time as you without ruining your code
